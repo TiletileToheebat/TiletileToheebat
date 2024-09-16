@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Toheebat_Tiletike
+- 👋 Hi, I’m @Toheebat_Tiletile
 - 👀 I’m a data science enthusiast 
 - 🌱 I’m currently upskilling
 - 💞️ I’m looking to collaborate on impactful project
