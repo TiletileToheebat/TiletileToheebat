@@ -4,9 +4,9 @@
 
 ## About Me
 - 🔬 **Data Scientist | AI/ML Engineer | Tech Innovator**
-- 🌍 Passionate about AI applications in **healthcare, education, and sustainability**
-- 💡 Exploring **AI for SDGs & Tech Entrepreneurship**
-- 🔗 Let's connect and collaborate on impactful AI projects!
+- 🌍 **Passionate about AI applications in healthcare, education, and sustainability**
+- 💡 **Exploring AI for SDGs & Tech Entrepreneurship**
+- 🔗 **Let's connect and collaborate on impactful AI projects!**
 
 ## 🚀 Technologies & Tools I Use:
 
