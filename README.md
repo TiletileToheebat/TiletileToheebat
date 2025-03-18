@@ -1,10 +1,26 @@
-- 👋 Hi, I’m @Toheebat_Tiletile
-- 👀 I’m a data science enthusiast 
-- 🌱 I’m currently upskilling
-- 💞️ I’m looking to collaborate on impactful project
-- 📫 How to reach me: tiletiletoheebatyewande@outlook.com
-- 😄 Pronouns: She/Her
-- ⚡ Fun fact: I'm passionate about using data to drive impacful  project, particularly those aligned with SDG 4 
+# 👋 Hi, I'm Toheebat Tiletile!
+
+## About Me
+- 🔬 Data Scientist | AI/ML Engineer | Tech Innovator
+- 🌍 Passionate about AI applications in **healthcare, education, and sustainability**
+- 💡 Exploring **AI for SDGs & Tech Entrepreneurship**
+- 🔗 Let's connect and collaborate on impactful AI projects!
+
+## 🚀 Technologies & Tools I Use:
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-%23F7931E.svg?style=for-the-badge&logoColor=white)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![NLP](https://img.shields.io/badge/Natural%20Language%20Processing-%23339933.svg?style=for-the-badge&logoColor=white)
+
+## 🔗 Connect with Me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/toheebat-tiletile)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourprofile)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TiletileToheebat))
+
+⚡ **Fun Fact:** I love working on AI projects that solve real-world problems! 🚀
+
 
 <!---
 TiletileToheebat/TiletileToheebat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
