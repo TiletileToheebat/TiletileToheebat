@@ -26,7 +26,7 @@
 **What’s an AI’s favorite type of workout?**
 *Backpropagation!* 💪🏾📉
 
-⚡ **Fun Fact:** I love working on AI projects that solve real-world problems! 🚀
+##⚡ **Fun Fact:** I love working on AI projects that solve real-world problems! 🚀
 
 
 <!---
